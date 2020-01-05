@@ -1,0 +1,5 @@
+Converting between objects, associative arrays, JSON, and XML
+
+Object oriented PHP
+
+=== vs ==
