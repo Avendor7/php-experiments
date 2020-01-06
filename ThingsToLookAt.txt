@@ -2,4 +2,9 @@ Converting between objects, associative arrays, JSON, and XML
 
 Object oriented PHP
 
-=== vs ==
+TODO
+
+initialize composer
+take in an xml file and parse to associative array
+convert that to an object
+convert that to a json file
